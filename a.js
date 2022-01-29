@@ -1,4 +1,3 @@
-console.log("hello")
-console.log("hello")
-console.log("hello")
-console.log("hello")
+function display(){
+    document.getElementById('demo').innerHTML = Date()
+}
